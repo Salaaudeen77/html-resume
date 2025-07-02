@@ -1,0 +1,57 @@
+body {
+    background-image: url(resume-background.jpg);
+    font-size: 18px;
+
+}
+
+.resume {
+    background-color: #333446;
+    color: white;
+    margin: 100px;
+    box-shadow: 5px 10px 10px rgba(8, 8, 8, 0.5);
+}
+
+#name {
+    display: inline-block;
+    padding-top: 15px;
+}
+#subject {
+    display: inline-block;
+    padding-top: 15px;
+}
+
+.header {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.about {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    padding-top: 2px;
+}
+
+footer {
+    background-color: #333446;
+    color: white;
+    padding: 5px;
+}
+
+.logo {
+    margin:;
+    padding: 10px;
+}
+
+a {
+    color: rgb(91, 91, 219);
+}
+
+a:hover {
+    color: aqua;
+}
+
+
+
